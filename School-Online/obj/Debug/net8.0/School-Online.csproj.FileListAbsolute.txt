@@ -1,0 +1,14 @@
+C:\Users\Horia\source\repos\School-Online\School-Online\bin\Debug\net8.0\School-Online.exe
+C:\Users\Horia\source\repos\School-Online\School-Online\bin\Debug\net8.0\School-Online.deps.json
+C:\Users\Horia\source\repos\School-Online\School-Online\bin\Debug\net8.0\School-Online.runtimeconfig.json
+C:\Users\Horia\source\repos\School-Online\School-Online\bin\Debug\net8.0\School-Online.dll
+C:\Users\Horia\source\repos\School-Online\School-Online\bin\Debug\net8.0\School-Online.pdb
+C:\Users\Horia\source\repos\School-Online\School-Online\obj\Debug\net8.0\School-Online.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Horia\source\repos\School-Online\School-Online\obj\Debug\net8.0\School-Online.AssemblyInfoInputs.cache
+C:\Users\Horia\source\repos\School-Online\School-Online\obj\Debug\net8.0\School-Online.AssemblyInfo.cs
+C:\Users\Horia\source\repos\School-Online\School-Online\obj\Debug\net8.0\School-Online.csproj.CoreCompileInputs.cache
+C:\Users\Horia\source\repos\School-Online\School-Online\obj\Debug\net8.0\School-Online.dll
+C:\Users\Horia\source\repos\School-Online\School-Online\obj\Debug\net8.0\refint\School-Online.dll
+C:\Users\Horia\source\repos\School-Online\School-Online\obj\Debug\net8.0\School-Online.pdb
+C:\Users\Horia\source\repos\School-Online\School-Online\obj\Debug\net8.0\School-Online.genruntimeconfig.cache
+C:\Users\Horia\source\repos\School-Online\School-Online\obj\Debug\net8.0\ref\School-Online.dll
